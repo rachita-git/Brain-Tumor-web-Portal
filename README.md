@@ -54,11 +54,6 @@ Model predicts tumor presence/class
 
 Result is displayed and stored in user history
 
-🚀 Installation & Setup
-git clone https://github.com/your-username/brain-tumor-detection
-cd brain-tumor-detection
-pip install -r requirements.txt
-python app.py
 
 🎯 Use Cases
 
